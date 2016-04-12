@@ -1,0 +1,265 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=" Chapter 3"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView1"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="30dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="10 small habits you can adopt that make you most successful  "
+            android:id="@+id/textView2"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text=" “We are what we repeatedly do; excellence then is not an act, but a habit”. Success is all about adopting small empowering habits that will bring your life changing effect over the long term. If you want to be more successful, adopt empowering habits that will make you a better person.   "
+            android:id="@+id/textView3"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=" Wake up early:  "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView4"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  Early morning is the best time to stay away from distraction and you can get more done during those hours. When you wake up early in the morning, you feel like you own the world. You can set out to do the work that you love. Just learn to wake up early and make it a habit.     "
+            android:id="@+id/textView5"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=" Do important thing first:  "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView6"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="   The first thing you need to do once you started your day is to get the most important thing done. This means that you need to plan for your day so that you will know what the most important task to you is. If you go through your day without planning you will get a lot of unimportant tasks done. If you know what to do stay proactive, things will be different.   "
+            android:id="@+id/textView7"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="  Read and learn: "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView8"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text=" Reading is one the most important habit to adopt if you want to be successful in your life.  A lot of the successful leaders share their thought saying that reading is what changing their lives and contribute to their success.    "
+            android:id="@+id/textView9"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=" Exercise:  "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView10"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="   When you exercise, your body will release endorphin that will make you feel good. Your body will be less tense after exercise.  Not only that you will feel less stress, have a fresher mind and recharge body after that.   "
+            android:id="@+id/textView11"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="  Be proactive :   "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView12"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="    Successful People are proactive rather than reactive. They get things done instead of waiting for things to come to them. You have to be the same. They are the ones who started the work and always in action.    "
+            android:id="@+id/textView13"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=" Follow your Dream:   "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView14"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text=" You have to dare to dream big and do whatever it takes to achieve what you want. Those who are willing to chase their dream are usually the ones that live a more fulfilling life. So follow your dream and do what is necessary.      "
+            android:id="@+id/textView15"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Network with positive minded:  "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView16"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text=" Successful people always mix around with other successful people. When you network with other successful people, your conversation will revolve around success and achievement. You will feel more driven and motivated to get things done. When you network with negative people your conversation will be negative things such as bad economy.      "
+            android:id="@+id/textView17"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="  Contribute:  "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView18"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  In other to connect to your deeper soul, you need to have sense of contribution. This is because when you contribute you will feel happy, grateful and accomplished. When you
+contribute you will sense a change in you. You will know that you have more when you donate.     "
+            android:id="@+id/textView19"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=" Never give up:  "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView20"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="   You have to trust yourself and never give up. Whenever you will give up, you will never achieve the result you want and you will never be successful. All the great people are able to produce outstanding success in their lives because they did not give up. They work hard and continue to do it until they get the result they want.   "
+            android:id="@+id/textView21"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" /><TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text=" Have fun:  "
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:id="@+id/textView22"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="   Life should be more fun. “Fun is one of the most important and underrated ingredients in any successful ventures. If you’re not having fun, then it’s probably time to call it quits and try something else.”         "
+            android:id="@+id/textView23"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+    </LinearLayout>
+</ScrollView>

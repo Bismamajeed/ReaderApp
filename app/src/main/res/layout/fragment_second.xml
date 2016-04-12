@@ -1,0 +1,389 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=" Chapter 2 "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView1"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="30dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="The 16 things that Successful people can’t do  "
+            android:id="@+id/textView2"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
+
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=" Spend time feeling sorry for themselves:   "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView4"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  Successful People do not murmur and complain. They don’t participate in those behaviors because they are immediate responsibility takers, murmuring and complaining goes against taking full responsibility for their actions and get their minds thinking about themselves and off their purpose.  "
+            android:id="@+id/textView5"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=" Cringe of change: "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView6"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="   A successful person understands that change is part of life.  A successful person takes an instant posture and mindset to embrace change and consider it a challenge. They begin to see change as new and existing possibility to grow, enhance their lives, and develop more knowledge.    "
+            android:id="@+id/textView7"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=" Yield their Power: "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView8"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  A successful person understands that their strength comes from something much greater than they truly possess. Their strength is how they respond to situations. Successful people maintain control of their emotions and actions, and do not give someone else or something else control over them.     "
+            android:id="@+id/textView9"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="  Spend time or energy on stuff that is out of their hands:  "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView10"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  A successful person doesn’t allow themselves to spend one minute on things outside of their control. They understand there are things that they cannot control, long lines, being placed on hold, other annoying circumstances. Successful people fully understand that these are the things they can’t control, and also realize that spending costly time and energy thinking about them is unproductive.     "
+            android:id="@+id/textView11"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="  Fear risk   "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView12"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text=" Risk is not something that successful people fear because they are risk takers. Most people will change their outlook and mindset in regards to taking risks. Successful people handle situations with careful consideration, strategic thought and focused action.    "
+            android:id="@+id/textView13"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=" Worry about what others think:   "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView14"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  This is a quality that successful people have in their DNA and it is called finesse.
+They understand no matter what they do and it could be something like curing world hunger. They also understand they will not please everyone so they approach situations and circumstances with kindness, honesty, fairness, knowing when what to say at appropriate time.   "
+            android:id="@+id/textView15"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="  Make the same mistake twice:    "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView16"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  Many times individuals can spend a lot of time pontificating on a situation, decision or circumstance that was unsuccessful. This is the very thing that successful people do not do. They take any and every failure as a learning opportunity. They do not spend time in the word of insanity and expecting different results.        "
+            android:id="@+id/textView17"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="   Live for glory days:   "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView18"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="   Dwelling and thinking about the past does not benefit everyone, especially if it is negative. Successful people invest in themselves and the development of their minds and part of that investment is spent creating a fantastic present which they understand the only thing they can change and time planning for an amazing future.     "
+            android:id="@+id/textView19"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text=" Give up Ever:  "
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:id="@+id/textView20"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text=" Giving up is not an option that they have so consideration of giving up is impossible for a successful person to fathom.     "
+            android:id="@+id/textView21"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="  Envy others:     "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView22"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  Successful people view other successful people as motivator. Successful people have an overall attitude of joy for other’s success because they understand that the platform for successful people is large and there is room for everyone.      "
+            android:id="@+id/textView23"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=" Avoid time alone:   "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView24"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  They enjoy some alone time to reflect and plan ahead.      "
+            android:id="@+id/textView25"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=" Expect quick Success: "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView26"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  Successful people are in it for long haul. They enjoy the process and look forward to win. They understand that planning and execution of plan takes well thought out time. Patience becomes their friend and they understand how it is truly a virtue. Successful people do not live with improper and unreasonable expectations. Looking for immediate result is not smart.        "
+            android:id="@+id/textView27"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=" Think they are owed something:  "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView28"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Successful people are probably the hardest working individuals on earth. Successful people do not rely on their education and or past successes. They do not mind working for want they desire whether a big salary, amazing benefits etc.  "
+            android:id="@+id/textView29"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="  Value money over time:  "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView30"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  Successful people understand that time is most valuable thing they possess. They realize that they could lose $100000 in a day or make $100000 in a day, but one thing that they cannot do is get that day back.  "
+            android:id="@+id/textView31"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=" Rely on memory they write stuff down:  "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView32"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="        Successful person know if they do not write it down it is likely that they do not or will not remember details. They understand that writing it down allows for them to follow a definite plan of action. Writing things down give them direction it put their dreams and desires in front of them as an accountability tool.      "
+            android:id="@+id/textView33"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=" Talk  more than they listen and observe:"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView34"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="   Successful people understand that they should be consummate learners. Successful people are aware that it takes a level of knowledge and understanding to achieve at higher level than the normal.     "
+            android:id="@+id/textView35"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+
+
+
+    </LinearLayout>
+</ScrollView>

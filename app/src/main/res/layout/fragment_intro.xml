@@ -1,0 +1,58 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context="com.example.feroz.readerapp.Intro">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Brought to You by PLR-MRR-Products.comBrought to You by PLR-MRR-Products.com"
+        android:id="@+id/textView2"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="61dp"
+        android:gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="This ebook may be given away. It may not be sold or modified in any manner."
+        android:id="@+id/textView5"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Disclaimer"
+        android:id="@+id/textView6"
+        android:layout_below="@+id/textView5"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="1.0dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Reasonable care has been taken to ensure that the information presented in this book is accurate. However, the reader should understand that the information provided does not constitute legal, medical or professional advice of any kind. No Liability: this product is supplied “as is” and without warranties. All warranties, express or implied, are hereby disclaimed. Use of this product constitutes acceptance of the“No Liability” policy. If you do not agree with this policy, you are not permitted to use or distribute this product. Neither the author, the publisher nor the distributor of this material shall be liable for any losses or damages whatsoever (including, without limitation, consequential loss or damage) directly or indirectly arising from the use of this product. Use at your own risk. Note - Publisher may receive affiliate commissions for products advertised within this ebook."
+        android:id="@+id/textView7"
+        android:layout_below="@+id/textView6"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="5dp"
+        android:gravity="center_horizontal" />
+
+</RelativeLayout>
+</ScrollView>

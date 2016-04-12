@@ -1,0 +1,164 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context="com.example.feroz.readerapp.First_frag"
+    >
+
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=" Chapter 1 "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView1"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="30dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="5 simple step to Success "
+            android:id="@+id/textView2"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Success is more than just making money. Money makes life comfortable and gives us opportunity to contribute to worthy causes. Success is when we reach the highest that is within us and give the very best we have. These are the steps you can take along the way:  "
+            android:id="@+id/textView3"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=" Access life as it is:  "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView4"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text=" Life is journey accept this even with all the challenges that come in your way.  "
+            android:id="@+id/textView5"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=" Adapt to Life: "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView6"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="  Successful People don’t complain and whine but keep a positive attitude towards life.    "
+            android:id="@+id/textView7"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=" Accept Responsibility for what is happening in your life: "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView8"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="   Take full responsibility of your life choices. Always look for good in your life and in others.    "
+            android:id="@+id/textView9"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="  Expect Positive:  "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView10"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="    Focus on Positive relationship in both your personal and professional life. Make it habit of bringing out the best in others so they can be the best they can be.    "
+            android:id="@+id/textView11"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="  Have a direction and purpose in your life:   "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/textView12"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="      Successful people know where they are going. They set goals, accomplish them and then set more goals. They are always looking for new experience. There is no line between success in your personal and professional life. Success is the one standard for your whole life. As you understand the difference between existing and living you will enjoy life to the fullest.       "
+            android:id="@+id/textView13"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="18sp"
+            android:layout_marginRight="10dp" />
+    </LinearLayout>
+
+
+</ScrollView>
